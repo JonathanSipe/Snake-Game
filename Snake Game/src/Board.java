@@ -75,7 +75,7 @@ public class Board extends JPanel implements ActionListener {
         timer.start();
     }
 
-//    @Override
+    @Override
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
 
